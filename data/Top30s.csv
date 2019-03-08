@@ -1,0 +1,901 @@
+Team Rank,Player,Team,Position,Age,ETA
+1,Alex Verdugo,Dodgers,OF,22,2019
+2,Keibert Ruiz,Dodgers,C,20,2020
+3,Dustin May,Dodgers,RHP,20,2020
+4,Gavin Lux,Dodgers,2B/SS,21,2020
+5,Jeter Downs,Dodgers,SS,20,2021
+6,Dennis Santana,Dodgers,RHP,22,2019
+7,Will Smith,Dodgers,C,23,2019
+8,Tony Gonsolin,Dodgers,RHP,24,2019
+9,DJ Peters,Dodgers,OF,23,2020
+10,Josiah Gray,Dodgers,RHP,21,2021
+11,Edwin Rios,Dodgers,1B,24,2019
+12,Miguel Vargas,Dodgers,3B,19,2022
+13,Mitchell White,Dodgers,RHP,24,2020
+14,Edwin Uceta,Dodgers,RHP,20,2021
+15,Jeren Kendall,Dodgers,OF,22,2021
+16,Michael Grove,Dodgers,RHP,22,2022
+17,Connor Wong,Dodgers,C,23,2020
+18,Diego Cartaya,Dodgers,C,17,2023
+19,Braydon Fisher,Dodgers,RHP,18,2022
+20,Gerardo Carrillo,Dodgers,RHP,20,2021
+21,Carlos Rincon,Dodgers,OF,21,2021
+22,Julian Smith,Dodgers,LHP,21,2022
+23,Jacob Amaya,Dodgers,2B,20,2021
+24,John Rooney,Dodgers,LHP,21,2021
+25,Jordan Sheffield,Dodgers,RHP,23,2021
+26,Devin Mann,Dodgers,2B,21,2020
+27,Yadier Alvarez,Dodgers,RHP,22,2020
+28,Omar Estevez,Dodgers,2B/SS,20,2020
+29,Matt Beaty,Dodgers,1B/3B,25,2019
+30,Cristian Santana,Dodgers,1B/3B,21,2021
+1,Victor Victor Mesa,Marlins,OF,22,2020
+2,Monte Harrison,Marlins,OF,23,2020
+3,Isan Diaz,Marlins,2B,22,2019
+4,Nick Neidert,Marlins,RHP,22,2019
+5,Sandy Alcantara,Marlins,RHP,23,2019
+6,Tristan Pompey,Marlins,OF,21,2021
+7,Jordan Yamamoto,Marlins,RHP,22,2020
+8,Trevor Rogers,Marlins,LHP,21,2022
+9,Braxton Garrett,Marlins,LHP,21,2022
+10,Edward Cabrera,Marlins,RHP,20,2022
+11,Zac Gallen,Marlins,RHP,23,2019
+12,Garrett Cooper,Marlins,OF,27,2019
+13,Connor Scott,Marlins,OF,19,2022
+14,Will Banfield,Marlins,C,19,2022
+15,Jorge Guzman,Marlins,RHP,22,2021
+16,Osiris Johnson,Marlins,SS,18,2022
+17,Brian Miller,Marlins,OF,23,2020
+18,Bryson Brigman,Marlins,2B/SS,23,2020
+19,James Nelson,Marlins,3B,21,2021
+20,Jose Devers,Marlins,SS,18,2022
+21,Tommy Eveld,Marlins,RHP,24,2020
+22,Chris Torres,Marlins,2B/SS,20,2022
+23,Colton Hock,Marlins,RHP,22,2021
+24,Robert Dugger,Marlins,RHP,23,2021
+25,Joe Dunand,Marlins,SS,23,2020
+26,McKenzie Mills,Marlins,LHP,23,2021
+27,Victor Mesa Jr.,Marlins,OF,16,2024
+28,Davis Bradshaw,Marlins,OF,20,2022
+29,Nick Fortes,Marlins,C,22,2021
+30,Cason Sherrod,Marlins,RHP,22,2021
+1,Wander Franco,Rays,SS,17,2021
+2,Brent Honeywell,Rays,RHP,23,2019
+3,Brendan McKay,Rays,LHP/1B,23,2020
+4,Jesus Sanchez,Rays,OF,21,2021
+5,Brandon Lowe,Rays,2B/OF,24,2019
+6,Nate Lowe,Rays,1B,23,2019
+7,Vidal Brujan,Rays,2B,20,2021
+8,Ronaldo Hernandez,Rays,C,21,2021
+9,Matthew Liberatore,Rays,LHP,19,2022
+10,Shane Baz,Rays,RHP,19,2022
+11,Lucius Fox,Rays,SS,21,2020
+12,Nick Solak,Rays,C,24,2019
+13,Shane McClanahan,Rays,LHP,21,2021
+14,Joe McCarthy,Rays,OF,24,2019
+15,Moises Gomez,Rays,OF,20,2022
+16,Nick Schnell,Rays,OF,18,2022
+17,Resly Linares,Rays,LHP,21,2021
+18,Garrett Whitley,Rays,OF,21,2021
+19,Josh Lowe,Rays,OF,20,2022
+20,Anthony Banda,Rays,LHP,25,2019
+21,Taylor Walls,Rays,SS,22,2021
+22,Colin Poche,Rays,LHP,25,2019
+23,Tyler Frank,Rays,2B,22,2021
+24,Ian Gibaut,Rays,RHP,25,2019
+25,Drew Stotman,Rays,RHP,22,2022
+26,Michael Mercado,Rays,RHP,19,2022
+27,Tanner Dodson,Rays,OF/RHP,21,2022
+28,Nick Ciuffo,Rays,C,23,2019
+29,Osmy Gregorio,Rays,SS/3B,20,2022
+30,Jelfry Marte,Rays,SS,17,2023
+1,Touki Toussaint,Braves,RHP,22,2019
+2,Cristian Pache,Braves,OF,20,2021
+3,Austin Riley,Braves,3B,21,2019
+4,Mike Soroka,Braves,RHP,21,2019
+5,Ian Anderson,Braves,RHP,20,2021
+6,William Contreras,Braves,C,20,2021
+7,Drew Waters,Braves,OF,20,2021
+8,Kyle Wright,Braves,RHP,23,2019
+9,Bryse Wilson,Braves,RHP,21,2019
+10,Luiz Gohara,Braves,LHP,22,2019
+11,Kyle Muller,Braves,LHP,20,2021
+12,Kolby Allard,Braves,LHP,21,2019
+13,Joey Wentz,Braves,LHP,21,2021
+14,Alex Jackson,Braves,C,23,2020
+15,Greyson Jenista,Braves,OF/1B,22,2021
+16,Tristan Beck,Braves,RHP,22,2021
+17,CJ Alexander,Braves,3B,22,2021
+18,Patrick Weigl,Braves,RHP,24,2019
+19,Huascar Ynoa,Braves,RHP,20,2022
+20,Tucker Davidson,Braves,LHP,22,2021
+21,Trey Riley,Braves,RHP,20,2022
+22,Freddy Tarnok,Braves,RHP,20,2023
+23,Riley Delgado,Braves,SS,23,2021
+24,Izzy Wilson,Braves,OF,20,2023
+25,Jasseel De La Cruz,Braves,RHP,21,2022
+26,Chad Sobotka,Braves,RHP,25,2019
+27,Corbin Clouse,Braves,LHP,23,2019
+28,AJ Graffanino,Braves,SS,21,2021
+29,Thomas Burrows,Braves,LHP,24,2019
+30,Jefrey Ramos,Braves,OF,19,2022
+1,Casey Mize,Tigers,RHP,21,2020
+2,Isaac Paredes,Tigers,SS,19,2019
+3,Matt Manning,Tigers,RHP,20,2021
+4,Daz Cameron,Tigers,OF,22,2019
+5,Franklin Perez,Tigers,RHP,21,2021
+6,Parker Meadows,Tigers,OF,19,2022
+7,Jake Rogers,Tigers,C,23,2019
+8,Wenceel Perez,Tigers,SS,19,2022
+9,Christin Stewart,Tigers,OF,25,2019
+10,Beau Burrows,Tigers,RHP,22,2020
+11,Willi Castro,Tigers,SS,21,2019
+12,Alex Faedo,Tigers,RHP,23,2020
+13,Kyle Funkhouser,Tigers,RHP,24,2019
+14,Adinso Reyes,Tigers,SS,17,2023
+15,Kody Clemes,Tigers,2B,22,2021
+16,Spencer Turnbull,Tigers,RHP,26,2019
+17,Jacob Robson,Tigers,OF,24,2019
+18,Sergio Alcantara,Tigers,SS,22,2019
+19,Anthony Castro,Tigers,RHP,23,2020
+20,Carlos Guzman,Tigers,RHP,20,2022
+21,Dawel Lugo,Tigers,3B,24,2019
+22,Kingston Liniak,Tigers,OF,19,2022
+23,Logan Shore,Tigers,RHP,24,2019
+24,Tarik Skubal,Tigers,LHP,22,2022
+25,Bryan Garcia,Tigers,RHP,23,2019
+26,Zac Houston,Tigers,RHP,24,2019
+27,Reed Garrett,Tigers,RHP,26,2019
+28,Brock Deathrage,Tigers,OF,23,2021
+29,Gregory Soto,Tigers,LHP,23,2020
+30,Jason Foley,Tigers,RHP,23,2020
+1,Estevan Florial,Yankees,OF,21,2020
+2,Deivi Garcia,Yankees,RHP,19,2020
+3,Jonathan Loaisiga,Yankees,RHP,24,2019
+4,Michael King,Yankees,RHP,23,2019
+5,Roansy Contreras,Yankees,RHP,19,2022
+6,Clarke Schmidt,Yankees,RHP,22,2021
+7,Luis Medina,Yankees,RHP,19,2022
+8,Garrett Whitlock,Yankees,RHP,22,2020
+9,Josh Stowers,Yankees,OF,22,2021
+10,Josh Breaux,Yankees,C,22,2021
+11,Trevor Stephan,Yankees,RHP,23,2021
+12,Anthony Seigler,Yankees,C,19,2022
+13,Luis Gil,Yankees,RHP,20,2022
+14,Domingo Acevedo,Yankees,RHP,24,2019
+15,Everson Pereira,Yankees,OF,17,2023
+16,Chance Adams,Yankees,RHP,24,2019
+17,Antonio Cabello,Yankees,OF,18,2023
+18,Thairo Estrada,Yankees,SS,22,2020
+19,Nick Nelson,Yankees,RHP,23,2021
+20,Albert Abreu,Yankees,RHP,23,2021
+21,Matt Sauer,Yankees,RHP,20,2022
+22,Glenn Otto,Yankees,RHP,22,2022
+23,Nolan Martinez,Yankees,RHP,20,2023
+24,Dermis Garcia,Yankees,3B,21,2022
+25,Freicer Perez,Yankees,RHP,22,2022
+26,Philip Diehl,Yankees,LHP,24,2019
+27,Wilkerman Garcia,Yankees,SS,20,2022
+28,Isiah Gilliam,Yankees,OF,22,2021
+29,Kevin Alcantara,Yankees,OF,16,2024
+30,Osiel Rodriguez,Yankees,RHP,17,2024
+1,Luis Garcia,Phillies,SS,18,2022
+2,Sixto Sanchez,Phillies,RHP,20,2021
+3,Adonis Medina,Phillies,RHP,22,2021
+4,Adam Haseley,Phillies,OF,22,2019
+5,Alec Bohm,Phillies,3B,22,2020
+6,Mickey Moniak,Phillies,OF,20,2021
+7,Daniel Brito,Phillies,2B,21,2022
+8,JoJo Romero,Phillies,LHP,22,2019
+9,Spencer Howard,Phillies,RHP,22,2021
+10,Enyel De Los Santos,Phillies,RHP,23,2019
+11,Austin Listi,Phillies,OF,25,2019
+12,Ranger Suarez,Phillies,LHP,23,2019
+13,Francisco Morales,Phillies,RHP,19,2023
+14,Jhailyn Ortiz,Phillies,OF,20,2022
+15,Deivi Grullon,Phillies,C,22,2019
+16,Mauricio Llovera,Phillies,RHP,22,2020
+17,Cole Irvin,Phillies,LHP,24,2019
+18,David Parkinson,Phillies,LHP,23,2021
+19,Connor Seabold,Phillies,RHP,23,2020
+20,Arquimedes Gamboa,Phillies,SS,21,2022
+21,Dylan Cozens,Phillies,OF,24,2019
+22,Jose Pujols,Phillies,OF,23,2020
+23,Darick Hall,Phillies,1B,23,2020
+24,Matt Vierling,Phillies,OF,22,2021
+25,Kyle Young,Phillies,LHP,21,2022
+26,Ramon Rosso,Phillies,RHP,22,2020
+27,Kyle Dohy,Phillies,LHP,22,2019
+28,Victor Santos,Phillies,RHP,18,2023
+29,Jake Schneiner,Phillies,1B/3B/OF,23,2021
+30,Simon Muzziotti,Phillies,OF,20,2022
+1,Vladimir Guerrero Jr.,Blue Jays,3B,19,2019
+2,Bo Bichette,Blue Jays,SS,20,2019
+3,Danny Jansen,Blue Jays,C,23,2019
+4,Nate Pearson,Blue Jays,RHP,22,2020
+5,Eric Pardinho,Blue Jays,RHP,18,2022
+6,Kevin Smith,Blue Jays,SS,22,2020
+7,Jordan Groshans,Blue Jays,3B/SS,19,2022
+8,Cavan Biggio,Blue Jays,1B/2B/3B,23,2019
+9,Anthony Alford,Blue Jays,OF,24,2019
+10,Sean Reid-Foley,Blue Jays,RHP,23,2019
+11,David Paulino,Blue Jays,RHP,24,2019
+12,Rowdy Tellez,Blue Jays,1B,23,2019
+13,Orelvis Martinez,Blue Jays,SS,17,2022
+14,Hector Perez,Blue Jays,RHP,22,2021
+15,Griffin Conine,Blue Jays,OF,21,2021
+16,Jonathan Davis,Blue Jays,OF,26,2019
+17,TJ Zeuch,Blue Jays,RHP,23,2019
+18,Trent Thornton,Blue Jays,RHP,25,2019
+19,Thomas Pannone,Blue Jays,LHP,25,2019
+20,Billy McKinney,Blue Jays,OF,24,2019
+21,Elvis Luciano,Blue Jays,RHP,19,2019
+22,Santiago Espinal,Blue Jays,SS,24,2019
+23,Chad Spanberger,Blue Jays,1B,23,2020
+24,Forrest Wall,Blue Jays,OF,22,2020
+25,Logan Warmoth,Blue Jays,SS,23,2021
+26,Chavez Young,Blue Jays,OF,21,2022
+27,Samad Taylor,Blue Jays,2B,20,2021
+28,Leo Jimenez,Blue Jays,2B,17,2023
+29,Miguel Hiraldo,Blue Jays,SS,18,2022
+30,Brock Lundquist,Blue Jays,OF,23,2021
+1,Andres Gimenez,Mets,SS,20,2020
+2,Peter Alonso,Mets,1B,24,2019
+3,Mark Vientos,Mets,3B/SS,19,2022
+4,Ronny Mauricio,Mets,SS,17,2023
+5,Shervyen Newton,Mets,SS,19,2022
+6,David Peterson,Mets,LHP,23,2020
+7,Anthony Kay,Mets,LHP,23,2021
+8,Franklyn Kilome,Mets,RHP,23,2019
+9,Simeon Woods-Richardson,Mets,RHP,18,2023
+10,Ali Sanchez,Mets,C,22,2021
+11,Thomas Szapucki,Mets,LHP,22,2022
+12,Desmond Lindsay,Mets,OF,22,2022
+13,Tomas Nido,Mets,C,24,2019
+14,Will Toffey,Mets,3B,24,2020
+15,Francisco Alvarez,Mets,C,17,2023
+16,Adrian Hernandez,Mets,OF,17,2023
+17,Junior Santos,Mets,RHP,17,2023
+18,Walter Lockett,Mets,RHP,24,2019
+19,Tony Dibrell,Mets,RHP,23,2021
+20,Carlos Cortes,Mets,OF,21,2022
+21,Gavin Cecchini,Mets,2B,25,2019
+22,Jordan Humphreys,Mets,RHP,22,2022
+23,Luis Carpio,Mets,2B/SS,21,2022
+24,Christian James,Mets,RHP,20,2021
+25,Freddy Valdez,Mets,OF,17,2024
+26,Stanley Consuegra,Mets,OF,18,2023
+27,Juan Uriarte,Mets,C,21,2022
+28,Patrick Mazeika,Mets,C,25,2019
+29,Braxton Lee,Mets,OF,25,2019
+30,Michael Paez,Mets,3B,24,2020
+1,Victor Robles,Nationals,OF,21,2019
+2,Carter Kieboom,Nationals,SS,21,2020
+3,Luis Garcia,Nationals,2B,18,2021
+4,Mason Denaburg,Nationals,RHP,19,2022
+5,Yasel Antuna,Nationals,SS,19,2022
+6,Wil Crowe,Nationals,RHP,24,2020
+7,Seth Romero,Nationals,LHP,22,2021
+8,Tim Cate,Nationals,LHP,21,2020
+9,Gage Canning,Nationals,OF,21,2021
+10,Drew Ward,Nationals,1B,23,2019
+11,Jackson Tetreault,Nationals,RHP,22,2021
+12,Malvin Pena,Nationals,RHP,21,2022
+13,Reid Schaller,Nationals,RHP,21,2022
+14,Telmito Agustin,Nationals,OF,22,2021
+15,Israel Pineda,Nationals,C,18,2022
+16,Gabe Klobosits,Nationals,RHP,23,2021
+17,Sterling Sharp,Nationals,RHP,23,2020
+18,Andry Arias,Nationals,1B,18,2023
+19,Tres Barrera,Nationals,C,24,2020
+20,James Bourque,Nationals,RHP,25,2019
+21,Ben Braymer,Nationals,LHP,24,2020
+22,Jake Irvin,Nationals,RHP,21,2021
+23,Jose Sanchez,Nationals,SS,18,2022
+24,Kyle Johnston,Nationals,RHP,22,2020
+25,Nick Raquet,Nationals,LHP,22,2020
+26,Cole Freeman,Nationals,2B,24,2020
+27,Jhon Romero,Nationals,RHP,23,2019
+28,Raudy Read,Nationals,C,25,2019
+29,Aldrem Corredor,Nationals,OF,23,2021
+30,Jacob Condra-Bogan,Nationals,RHP,24,2020
+1,Brendan Rodgers,Rockies,SS,22,2019
+2,Garrett Hampson,Rockies,2B,24,2019
+3,Tyler Nevin,Rockies,1B,21,2020
+4,Colton Welker,Rockies,3B,21,2021
+5,Peter Lambert,Rockies,RHP,21,2019
+6,Ryan Vilade,Rockies,SS,19,2021
+7,Grant Lavigne,Rockies,1B,19,2022
+8,Ryan Rolison,Rockies,LHP,21,2020
+9,Ryan Castellani,Rockies,RHP,22,2019
+10,Riley Pint,Rockies,RHP,21,2022
+11,Reid Humphreys,Rockies,RHP,24,2019
+12,Justin Lawrence,Rockies,RHP,24,2019
+13,Yonathan Daza,Rockies,OF,24,2019
+14,Daniel Montano,Rockies,OF,19,2022
+15,Terrin Vavra,Rockies,SS,21,2021
+16,Ben Bowden,Rockies,LHP,24,2020
+17,Jesus Tinoco,Rockies,RHP,23,2020
+18,Willie Abreu,Rockies,OF,23,2021
+19,Niko Decolati,Rockies,OF,21,2021
+20,Ryan Feltner,Rockies,RHP,22,2021
+21,Eddy Diaz,Rockies,SS,18,2023
+22,Juan Guerrero,Rockies,SS,17,2023
+23,Josh Fuentes,Rockies,1B,25,2019
+24,Roberto Ramos,Rockies,1B,23,2020
+25,Vince Fernandez,Rockies,OF,23,2021
+26,Max George,Rockies,2B,22,2021
+27,Breiling Eusebio,Rockies,LHP,22,2021
+28,Sam Hilliard,Rockies,OF,24,2020
+29,Rico Garcia,Rockies,RHP,24,2020
+30,Mitchell Kilkenny,Rockies,RHP,21,2022
+1,Nick Senzel,Reds,3B,23,2019
+2,Jonathan India,Reds,3B,21,2020
+3,Taylor Trammell,Reds,OF,21,2021
+4,Hunter Greene,Reds,RHP,19,2022
+5,Tony Santillan,Reds,RHP,21,2020
+6,Jose Siri,Reds,OF,23,2020
+7,Vladimir Gutierrez,Reds,RHP,23,2019
+8,Tyler Stephenson,Reds,C,22,2021
+9,Mariel Bautista,Reds,OF,21,2021
+10,Mike Siani,Reds,OF,19,2022
+11,T.J. Freidl,Reds,OF,23,2020
+12,Jose Garcia,Reds,SS,20,2022
+13,Lyon Richardson,Reds,RHP,18,2023
+14,Stuart Fairchild,Reds,OF,22,2020
+15,Joe Kuhnel,Reds,RHP,23,2020
+16,Danny Lantigua,Reds,OF,19,2022
+17,Bren Spillane,Reds,1B,22,2021
+18,Jacob Heatherly,Reds,LHP,20,2022
+19,Jimmy Herget,Reds,RHP,25,2019
+20,Jonathan Willems,Reds,2B,20,2022
+21,Keury Mella,Reds,RHP,25,2019
+22,Michael Beltre,Reds,OF,23,2021
+23,Josh VanMeter,Reds,2B,23,2019
+24,Hendrik Clementina,Reds,C,21,2021
+25,Rylan Thomas,Reds,1B,21,2022
+26,James Marinan,Reds,RHP,20,2022
+27,Miguel Hernandez,Reds,SS,19,2022
+28,Cash Case,Reds,2B,19,2022
+29,Debby Santana,Reds,3B,18,2023
+30,Ibandel Isabel,Reds,1B,23,2021
+1,Forrest Whitley,Astros,RHP,21,2019
+2,Kyle Tucker,Astros,OF,21,2019
+3,Yordan Alvarez,Astros,1B,21,2019
+4,Josh James,Astros,RHP,25,2019
+5,Corbin Martin,Astros,RHP,22,2020
+6,J.B. Bukauskas,Astros,RHP,22,2020
+7,Seth Beer,Astros,1B,22,2020
+8,Cionel Perez,Astros,LHP,22,2019
+9,Cristian Javier,Astros,RHP,21,2020
+10,Freudis Nova,Astros,SS,18,2022
+11,Bryan Abreu,Astros,RHP,21,2021
+12,Tyler Ivey,Astros,RHP,22,2020
+13,Abraham Toro,Astros,3B,21,2020
+14,Luis Santana,Astros,2B,19,2022
+15,Jairo Solis,Astros,RHP,18,2021
+16,Framber Valdez,Astros,LHP,24,2019
+17,Rogelio Armenteros,Astros,RHP,24,2019
+18,Jayson Schroeder,Astros,RHP,19,2022
+19,Brandon Bailey,Astros,RHP,24,2020
+20,Jonathan Arauz,Astros,SS,20,2021
+21,Garrett Stubbs,Astros,C,25,2019
+22,Myles Straw,Astros,OF,24,2019
+23,J.J. Matijevic,Astros,1B,23,2020
+24,Brandon Bielak,Astros,RHP,22,2020
+25,Alex McKenna,Astros,OF,21,2021
+26,Dean Deetz,Astros,RHP,24,2019
+27,Joe Perez,Astros,3B,19,2022
+28,Ronnie Dawson,Astros,OF,23,2020
+29,Heitor Tokar,Astros,RHP,18,2023
+30,Peter Solomon,Astros,RHP,22,2021
+1,Yusniel Diaz,Orioles,OF,21,2019
+2,Ryan Mountcastle,Orioles,3B,21,2019
+3,D.L. Hall,Orioles,LHP,20,2021
+4,Austin Hays,Orioles,OF,23,2019
+5,Grayson Rodriguez,Orioles,RHP,18,2022
+6,Ryan McKenna,Orioles,OF,21,2019
+7,Richie Martin,Orioles,SS,24,2019
+8,Dean Kremer,Orioles,RHP,22,2019
+9,Jean Carmona,Orioles,SS,18,2021
+10,Jean Carlos Encarnacion,Orioles,3B,20,2021
+11,Zac Lowther,Orioles,LHP,22,2020
+12,Keegan Akin,Orioles,LHP,23,2019
+13,Rylan Bannon,Orioles,2B/3B,22,2020
+14,Luis Ortiz,Orioles,RHP,23,2019
+15,Dillon Tate,Orioles,RHP,24,2019
+16,Hunter Harvey,Orioles,RHP,23,2019
+17,Adam Hall,Orioles,SS,19,2021
+18,Blaine Knight,Orioles,RHP,22,2020
+19,Brenan Hanifee,Orioles,RHP,20,2021
+20,Cadyn Grenier,Orioles,SS,21,2020
+21,Cameron Bishop,Orioles,LHP,22,2020
+22,D.J. Stewart,Orioles,OF,24,2019
+23,Drew Rom,Orioles,LHP,18,2022
+24,Brett Cumberland,Orioles,C,23,2020
+25,Robert Neustrom,Orioles,OF,21,2021
+26,Alex Wells,Orioles,LHP,21,2020
+27,Zach Pop,Orioles,RHP,22,2019
+28,Michael Baumann,Orioles,RHP,23,2021
+29,Cody Sedlock,Orioles,RHP,22,2020
+30,Lamar Sparks,Orioles,OF,20,2022
+1,Michael Chavis,Red Sox,3B,23,2019
+2,Triston Casas,Red Sox,3B,18,2022
+3,Bobby Dalbec,Red Sox,3B,23,2020
+4,Jay Groome,Red Sox,LHP,20,2021
+5,Antoni Flores,Red Sox,SS,18,2022
+6,Mike Shawaryn,Red Sox,RHP,24,2019
+7,Darwinzon Hernandez,Red Sox,LHP,21,2020
+8,Tanner Houck,Red Sox,RHP,22,2020
+9,Durbin Feltman,Red Sox,RHP,21,2019
+10,Bryan Mata,Red Sox,RHP,19,2021
+11,CJ Chatham,Red Sox,SS,23,2020
+12,Danny Diaz,Red Sox,3B,17,2022
+13,Nick Decker,Red Sox,OF,19,2022
+14,Brandon Howlett,Red Sox,3B,19,2022
+15,Jarren Duran,Red Sox,2B,22,2021
+16,Josh Ockimey,Red Sox,1B,22,2019
+17,Nick Northcut,Red Sox,3B,19,2022
+18,Gilberto Jimenez,Red Sox,OF,18,2022
+19,Alex Scherff,Red Sox,RHP,20,2022
+20,Travis Lakins,Red Sox,RHP,24,2019
+21,Devlin Granberg,Red Sox,OF,23,2021
+22,Tzu-Wei Lin,Red Sox,SS,24,2019
+23,Denyi Reyes,Red Sox,RHP,21,2021
+24,Chase Shugart,Red Sox,RHP,21,2021
+25,Zach Schellenger,Red Sox,RHP,22,2020
+26,Brayan Bello,Red Sox,RHP,19,2022
+27,Bobby Poyner,Red Sox,LHP,25,2019
+28,Sam Travis,Red Sox,1B,25,2019
+29,Eduardo Lopez,Red Sox,OF,16,2023
+30,Kutter Crawford,Red Sox,RHP,22,2020
+1,Jesus Luzardo,A's,LHP,21,2019
+2,A.J. Puk,A's,LHP,23,2020
+3,Sean Murphy,A's,C,24,2020
+4,Austin Beck,A's,OF,20,2022
+5,Jorge Mateo,A's,SS,23,2019
+6,Lazaro Armenteros,A's,OF,19,2022
+7,James Kaprielian,A's,RHP,22,2020
+8,Daulton Jefferies,A's,RHP,23,2020
+9,Skye Bolt,A's,OF,25,2020
+10,Jameson Hannah,A's,OF,21,2021
+11,Jeremy Eierman,A's,SS,22,2021
+12,Parker Dunshee,A's,RHP,24,2021
+13,Marcos Brito,A's,2B,19,2022
+14,Tyler Ramirez,A's,OF,24,2020
+15,Kevin Merrell,A's,SS/2B,23,2021
+16,Nick Allen,A's,SS,20,2022
+17,Sheldon Neuse,A's,3B,24,2020
+18,Wyatt Marks,A's,RHP,23,2020
+19,Brian Howard,A's,RHP,23,2020
+20,Grant Holmes,A's,RHP,23,2020
+21,Luis Barrera,A's,OF,23,2020
+22,Dairon Blanco,A's,OF,25,2020
+23,Kyler Murray,A's,OF,21,2023
+24,Lawrence Butler,A's,1B/OF,17,2023
+25,Dalton Sawyer,A's,LHP,25,2021
+26,Greg Deichmann,A's,OF,23,2021
+27,Alfonso Rivas,A's,1B,24,2021
+28,JJ Schwarz,A's,C/1B,23,2021
+29,Hogan Harris,A's,LHP,22,2022
+30,Gus Varland,A's,RHP,22,2021
+1,Nolan Jones,Indians,3B,20,2020
+2,George Valera,Indians,OF,18,2022
+3,Triston McKenzie,Indians,RHP,21,2020
+4,Ethan Hankins,Indians,RHP,18,2023
+5,Luis Oviedo,Indians,RHP,19,2022
+6,Brayan Rocchio,Indians,SS/3B,18,2022
+7,Tyler Freeman,Indians,SS/2B,19,2021
+8,Yu Chang,Indians,3B/SS,23,2019
+9,Oscar Mercado,Indians,OF,24,2019
+10,Will Benson,Indians,OF,21,2022
+11,Raynel Delgado,Indians,SS/2B/3B,18,2023
+12,Bo Naylor,Indians,C,19,2023
+13,Carlos Vargas,Indians,RHP,19,2024
+14,Lenny Torres,Indians,RHP,18,2023
+15,Johnathan Rodriguez,Indians,OF,19,2022
+16,Nick Sandlin,Indians,RHP,22,2019
+17,Richie Palacios,Indians,2B/SS,21,2021
+18,Aaron Bracho,Indians,2B/SS,17,2024
+19,Daniel Johnson,Indians,OF,23,2020
+20,Gabriel Rodriguez,Indians,SS,17,2024
+21,Bobby Bradley,Indians,1B,22,2019
+22,Sam Hentges,Indians,LHP,21,2021
+23,Marcos Gonzalez,Indians,SS,19,2023
+24,Ooscar Gonzalez,Indians,OF,21,2021
+25,Eli Morgan,Indians,RHP,22,2020
+26,Chih-Wei Hu,Indians,RHP,25,2019
+27,Junior Sanquintin,Indians,SS,17,2024
+28,Ernie Clement,Indians,SS,23,2021
+29,Jordan Luplow,Indians,OF,25,2019
+30,Aaron Civale,Indians,RHP,23,2019
+1,M.J. Melendez,Royals,C,20,2021
+2,Brady Singer,Royals,RHP,22,2020
+3,Khalil Lee,Royals,OF,20,2022
+4,Jackson Kowar,Royals,RHP,22,2021
+5,Nick Pratto,Royals,1B,20,2021
+6,Nicky Lopez,Royals,SS/2B,24,2019
+7,Daniel Lynch,Royals,LHP,22,2020
+8,Kyle Isbel,Royals,OF,22,2021
+9,Seuly Matias,Royals,OF,22,2022
+10,Carlos Hernandez,Royals,RHP,22,2022
+11,Brewer Hicklen,Royals,OF,23,2021
+12,Michael Gigliotti,Royals,OF,23,2021
+13,Kris Bubic,Royals,LHP,21,2021
+14,Yefri Del Rosario,Royals,RHP,19,2022
+15,Meibrys Viloria,Royals,C,22,2019
+16,Richard Lovelady,Royals,LHP,23,2019
+17,Josh Staumont,Royals,RHP,25,2019
+18,Kelvin Gutierrez,Royals,3B,24,2020
+19,Blake Perkins,Royals,OF,22,2021
+20,Austin Cox,Royals,LHP,22,2021
+21,Yohanse Morel,Royals,RHP,18,2023
+22,Emmanuel Rivera,Royals,3B,22,2021
+23,Zach Haake,Royals,RHP,22,2021
+24,Eric Cole,Royals,OF,22,2021
+25,Jonathan Bowlan,Royals,RHP,22,2021
+26,Janser Lara,Royals,RHP,22,2021
+27,Scott Blewett,Royals,RHP,22,2020
+28,Sam McWilliams,Royals,RHP,23,2019
+29,Jeison Guzman,Royals,SS,20,2022
+30,Daniel Tillo,Royals,LHP,22,2021
+1,Jo Adell,Angels,OF,19,2020
+2,Griffin Canning,Angels,RHP,22,2019
+3,Jahmai Jones,Angels,2B,21,2020
+4,Brandon Marsh,Angels,OF,21,2021
+5,Jordyn Adams,Angels,OF,19,2023
+6,Luis Rengifo,Angels,2B/SS,22,2019
+7,Patrick Sandoval,Angels,LHP,22,2020
+8,Jose Suarez,Angels,LHP,21,2019
+9,Matt Thaiss,Angels,1B,23,2019
+10,D'Shawn Knolwes,Angels,OF,18,2023
+11,Ty Buttrey,Angels,RHP,26,2019
+12,Jeremiah Jackson,Angels,SS,19,2022
+13,Chris Rodriguez,Angels,RHP,20,2022
+14,Livan Soto,Angels,SS/2B,18,2023
+15,Michael Hermosillo,Angels,OF,24,2019
+16,Jesus Castillo,Angels,RHP,23,2020
+17,Leonardo Rivas,Angels,SS/2B,21,2022
+18,Kyle Bradish,Angels,RHP,22,2021
+19,Jose Soriano,Angels,RHP,20,2022
+20,Jose Rojas,Angels,INF,26,2019
+21,Luis Madero,Angels,RHP,24,2021
+22,Jared Walsh,Angels,1B/LHP,25,2019
+23,Brennon Lund,Angels,OF,24,2020
+24,Trent Deveaux,Angels,OF,18,2023
+25,Aaron Hernandez,Angels,RHP,23,2021
+26,Stiward Aquino,Angels,RHP,19,2023
+27,Kevin Maitan,Angels,3B,19,2022
+28,Jack Kruger,Angels,C,24,2020
+29,William English,Angels,RHP/OF,18,2023
+30,Alexander Ramirez,Angels,OF,16,2024
+1,Keston Hiura,Brewers,2B,22,2019
+2,Brice Turang,Brewers,SS,19,2022
+3,Corey Ray,Brewers,OF,24,2020
+4,Zack Brown,Brewers,RHP,24,2019
+5,Mauricio Dubon,Brewers,SS/2B,24,2019
+6,Tristen Lutz,Brewers,OF,19,2022
+7,Joe Gray Jr.,Brewers,OF,19,2023
+8,Aaron Ashby,Brewers,LHP,20,2022
+9,Eduardo Garcia,Brewers,SS,16,2024
+10,Tyrone Taylor,Brewers,OF,25,2019
+11,Troy Stokes Jr.,Brewers,OF,23,2019
+12,Mario Feliciano,Brewers,C,20,2022
+13,Braden Webb,Brewers,RHP,23,2020
+14,Trey Supak,Brewers,RHP,22,2020
+15,Lucas Erceg,Brewers,3B,23,2020
+16,Micah Bello,Brewers,OF,18,2023
+17,Carlos Rodriguez,Brewers,OF,18,2023
+18,Payton Henry,Brewers,C,21,2022
+19,Adam Hill,Brewers,RHP,22,2020
+20,Pablo Abreu,Brewers,OF,19,2022
+21,Eduarqui Fernandez,Brewers,OF,17,2024
+22,Larry Ernesto,Brewers,OF,18,2024
+23,Je'Von Ward,Brewers,OF,18,2023
+24,Adrian Houser,Brewers,RHP,26,2019
+25,Marcos Diplan,Brewers,RHP,22,2020
+26,Bobby Wahl,Brewers,RHP,27,2019
+27,Quintin Torres-Costa,Brewers,LHP,24,2020
+28,Justin Jarvis,Brewers,RHP,19,2023
+29,Yeison Coca,Brewers,SS/2B,18,2023
+30,Felix Valerio,Brewers,2B,18,2022
+1,Kristian Robinson,Diamondbacks,OF,18,2023
+2,Jazz Chisholm,Diamondbacks,SS,20,2020
+3,Jon Duplantier,Diamondbacks,RHP,24,2019
+4,Daulton Varsho,Diamondbacks,C,22,2021
+5,Alek Thomas,Diamondbacks,OF,18,2023
+6,Taylor Widener,Diamondbacks,RHP,23,2020
+7,Geraldo Perdomo,Diamondbacks,SS,18,2023
+8,Blaze Alexander,Diamondbacks,SS,19,2023
+9,Merrill Kelly,Diamondbacks,RHP,30,2019
+10,Jake McCarthy,Diamondbacks,OF,21,2020
+11,Emilio Vargas,Diamondbacks,RHP,22,2020
+12,Andy Young,Diamondbacks,2B/3B,24,2020
+13,Andy Yerzy,Diamondbacks,C,20,2022
+14,Drew Ellis,Diamondbacks,3B,22,2020
+15,Pavin Smith,Diamondbacks,1B,22,2020
+16,Yoan Lopez,Diamondbacks,RHP,25,2019
+17,Buddy Kennedy,Diamondbacks,3B,19,2022
+18,Alvin Guzman,Diamondbacks,OF,16,2024
+19,Kevin Cron,Diamondbacks,1B/3B,25,2019
+20,Taylor Clarke,Diamondbacks,RHP,25,2019
+21,Joel Payamps,Diamondbacks,RHP,24,2019
+22,Eduardo Diaz,Diamondbacks,OF,21,2022
+23,Marcus Wilson,Diamondbacks,OF,22,2021
+24,Matt Tabor,Diamondbacks,RHP,20,2022
+25,Matt Mercer,Diamondbacks,RHP,22,2021
+26,Dom Miroglio,Diamondbacks,C,23,2020
+27,Domingo Leyba,Diamondbacks,2B/SS,23,2020
+28,Jorge Barrosa,Diamondbacks,OF,17,2023
+29,Wilderd Patino,Diamondbacks,OF,17,2023
+30,Jose Caballero,Diamondbacks,2B,22,2021
+1,Nico Hoerner,Cubs,SS/2B,21,2020
+2,Miguel Amaya,Cubs,C,20,2022
+3,Aramis Ademan,Cubs,SS,20,2021
+4,Adbert Alzolay,Cubs,RHP,24,2019
+5,Justin Steele,Cubs,LHP,23,2020
+6,Brailyn Marquez,Cubs,LHP,20,2021
+7,Brennen Davis,Cubs,OF,19,2023
+8,Cole Roederer,Cubs,OF,19,2022
+9,Richard Gallardo,Cubs,RHP,17,2024
+10,Jose Albertos,Cubs,RHP,20,2022
+11,Keegan Thompson,Cubs,RHP,24,2020
+12,Alex Lange,Cubs,RHP,23,2020
+13,Brendon Little,Cubs,LHP,22,2020
+14,Dakota Mekkes,Cubs,RHP,24,2019
+15,Oscar De La Cruz,Cubs,RHP,24,2020
+16,Luis Verdugo,Cubs,SS,18,2023
+17,Yovanny Cruz,Cubs,RHP,19,2022
+18,Jeremiah Estrada,Cubs,RHP,20,2021
+19,Zack Short,Cubs,SS,23,2020
+20,Cory Abbott,Cubs,RHP,23,2020
+21,Alec Mills,Cubs,RHP,27,2019
+22,Trent Giambrone,Cubs,2B,25,2019
+23,Erich Uelmen,Cubs,RHP,22,2020
+24,Reivaj Garcia,Cubs,2B,17,2023
+25,Tyson Miller,Cubs,RHP,23,2020
+26,Dillon Maples,Cubs,RHP,26,2019
+27,Danis Correa,Cubs,RHP,19,2022
+28,Nelson Velazquez,Cubs,OF,20,2023
+29,Christopher Morel,Cubs,3B,19,2023
+30,Jose Lopez,Cubs,OF,17,2024
+1,Joey Bart,Giants,C,22,2020
+2,Heliot Ramos,Giants,OF,19,2022
+3,Marco Luciano,Giants,3B,17,2023
+4,Alexander Canario,Giants,OF,18,2022
+5,Gregory Santos,Giants,RHP,19,2021
+6,Ray Black,Giants,RHP,28,2019
+7,Melvin Adon,Giants,RHP,24,2019
+8,Shaun Anderson,Giants,RHP,24,2019
+9,Logan Webb,Giants,RHP,22,2019
+10,Chris Shaw,Giants,OF,25,2019
+11,Jairo Pomares,Giants,OF,18,2022
+12,Camilo Doval,Giants,RHP,21,2021
+13,Sean Hjelle,Giants,RHP,21,2021
+14,Heath Quinn,Giants,OF,23,2021
+15,Garrett Williams,Giants,LHP,24,2019
+16,Jake Wong,Giants,RHP,22,2021
+17,Jose Marte,Giants,RHP,22,2021
+18,Juan De Paula,Giants,RHP,21,2021
+19,Sam Coonrod,Giants,RHP,26,2019
+20,Sam Wolff,Giants,RHP,27,2019
+21,Jacob Gonzalez,Giants,3B,20,2022
+22,Tyler Beede,Giants,RHP,25,2019
+23,Diego Rincones,Giants,OF,19,2022
+24,Seth Corry,Giants,LHP,20,2022
+25,Sandro Fabian,Giants,OF,20,2022
+26,Ryan Howard,Giants,2B,24,2020
+27,Abiatal Avelino,Giants,SS,23,2019
+28,Garrett Cave,Giants,RHP,22,2020
+29,Drew Ferguson,Giants,OF,26,2019
+30,Dillon McNamara,Giants,RHP,27,2019
+1,Fernando Tatis Jr.,Padres,SS,20,2019
+2,MacKenzie Gore,Padres,LHP,19,2022
+3,Luis Urias,Padres,2B,21,2019
+4,Chris Paddack,Padres,RHP,22,2019
+5,Luis Patino,Padres,RHP,19,2022
+6,Francisco Mejia,Padres,C,22,2019
+7,Adrian Morejon,Padres,LHP,19,2020
+8,Michel Baez,Padres,RHP,22,2020
+9,Anderson Espinoza,Padres,RHP,20,2021
+10,Tirso Ornelas,Padres,OF,18,2021
+11,Hudson Potts,Padres,SS/3B,20,2020
+12,Logan Allen,Padres,LHP,21,2019
+13,Xavier Edwards,Padres,SS,19,2021
+14,Josh Naylor,Padres,1B/OF,21,2020
+15,Esteury Ruiz,Padres,2B,19,2021
+16,Cal Quantrill,Padres,LHP,23,2019
+17,Ryan Weathers,Padres,RHP,19,2023
+18,Gabriel Arias,Padres,SS,18,2022
+19,Edward Olivares,Padres,OF,22,2021
+20,Jeisson Rosario,Padres,OF,19,2021
+21,Pedro Avila,Padres,RHP,22,2021
+22,Reggie Lawson,Padres,RHP,21,2021
+23,Buddy Reed,Padres,OF,23,2020
+24,Andres Munoz,Padres,RHP,20,2020
+25,Eugy Rosario,Padres,2B,19,2021
+30,Jacob Nix,Padres,RHP,23,2019
+26,Luis Campusano,Padres,C,20,2022
+27,Nick Margevicus,Padres,LHP,22,2020
+28,Tucupita Marcano,Padres,SS,19,2022
+29,Jordy Barley,Padres,SS,19,2023
+1,Alex Reyes,Cardinals,RHP,24,2019
+2,Nolan Gorman,Cardinals,3B,18,2022
+3,Andrew Knizner,Cardinals,C,23,2019
+4,Dylan Carlson,Cardinals,OF,20,2020
+5,Elehuris Montero,Cardinals,3B,20,2020
+6,Jhon Torres,Cardinals,OF,18,2022
+7,Ryan Helsley,Cardinals,RHP,24,2019
+8,Griffin Roberts,Cardinals,RHP,22,2020
+9,Dakota Hudson,Cardinals,RHP,24,2019
+10,Edumondo Sosa,Cardinals,SS,22,2020
+11,Adolis Garcia,Cardinals,OF,25,2019
+12,Malcom Nunez,Cardinals,1B,17,2023
+13,Conner Capel,Cardinals,OF,21,2020
+14,Justin Williams,Cardinals,OF,23,2019
+15,Randy Arozarena,Cardinals,OF,23,2019
+16,Genesis Cabrera,Cardinals,LHP,22,2020
+17,Daniel Poncedeleon,Cardinals,RHP,26,2019
+18,Johan Oviedo,Cardinals,RHP,20,2021
+19,Connor Jones,Cardinals,RHP,24,2019
+20,Lane Thomas,Cardinals,OF,23,2020
+21,Nick Dunn,Cardinals,2B,21,2020
+22,Wadye Ynfante,Cardinals,OF,21,2021
+23,Junior Fernandez,Cardinals,RHP,21,2019
+24,Ramon Urias,Cardinals,2B,24,2020
+25,Tommy Edman,Cardinals,2B,23,2020
+26,Max Schrock,Cardinals,2B,24,2019
+27,Luken Baker,Cardinals,1B,21,2021
+28,Evan Kruczynski,Cardinals,LHP,23,2019
+29,Steven Gingery,Cardinals,LHP,21,2022
+30,Ivan Herrera,Cardinals,C,18,2023
+1,Royce Lewis,Twins,SS,19,2021
+2,Alex Kirilloff,Twins,OF,20,2020
+3,Trevor Larnach,Twins,OF,21,2020
+4,Brusdar Graterol,Twins,RHP,20,2021
+5,Brent Rooker,Twins,3B,21,2019
+6,Akil Baddoo,Twins,OF,20,2021
+7,Stephen Gonsalves,Twins,RHP,24,2019
+8,Nick Gordon,Twins,SS,23,2019
+9,Jhoan Duran,Twins,RHP,20,2021
+10,Wander Javier,Twins,SS,19,2022
+11,Travis Blankenhorn,Twins,2B,22,2020
+12,Yunior Severino,Twins,2B/SS,19,2022
+13,Gilberto Celestino,Twins,OF,19,2020
+14,LaMonte Wade,Twins,OF,24,2019
+15,Jose Miranda,Twins,2B,20,2022
+16,Misael Urbina,Twins,OF,21,2022
+17,Blayne Enlow,Twins,RHP,19,2022
+18,DaShawn Keirsey Jr.,Twins,OF,21,2022
+19,Cole Sands,Twins,RHP,22,2021
+20,Luis Rijo,Twins,RHP,20,2022
+21,Luis Arraez,Twins,2B,21,2020
+22,Lewis Thorpe,Twins,LHP,22,2019
+23,Jaylin Daivs,Twins,OF,24,2020
+24,Landon Leach,Twins,RHP,19,2022
+25,Gabriel Maciel,Twins,OF,19,2022
+26,Lewin Diaz,Twins,1B,21,2020
+27,Ryan Jeffers,Twins,C,21,2021
+28,Ryley Widell,Twins,LHP,21,2022
+29,Zack Granite,Twins,OF,26,2019
+30,Tyler Jay,Twins,LHP,24,2020
+1,Mitch Keller,Pirates,RHP,22,2019
+2,Ke'Bryan Hayes,Pirates,3B,21,2020
+3,Travis Swaggerty,Pirates,OF,21,2021
+4,Oneil Cruz,Pirates,SS,20,2021
+5,Cole Tucker,Pirates,SS,22,2020
+6,Luis Escobar,Pirates,RHP,22,2020
+7,Calvin Mitchell,Pirates,OF,19,2021
+8,Lolo Sanchez,Pirates,RHP,19,2022
+9,Steven Jennings,Pirates,SS,19,2022
+10,Kevin Newman,Pirates,OF,25,2019
+11,Kevin Kramer,Pirates,SS,25,2019
+12,Travis MacGregor,Pirates,RHP,21,2020
+13,Bryan Reynolds,Pirates,OF,23,2020
+14,Stephen Alemais,Pirates,SS,23,2020
+15,Will Craig,Pirates,1B,23,2020
+16,Braxton Ashcraft,Pirates,RHP,19,2022
+17,Pablo Reyes,Pirates,OF,25,2019
+18,Jared Oliva,Pirates,OF,22,2021
+19,Conner Uselton,Pirates,OF,20,2022
+20,Jason Martin,Pirates,OF,23,2019
+21,Ji-Hwan Bae,Pirates,SS,19,2022
+22,JT Brubaker,Pirates,RHP,24,2019
+23,Rodolfo Castro,Pirates,2B,19,2022
+24,Nick Burdi,Pirates,RHP,25,2019
+25,Tahnaj Thomas,Pirates,RHP,19,2022
+26,Braden Ogle,Pirates,LHP,21,2021
+27,Connor Kaiser,Pirates,SS,21,2021
+28,Deon Stafford,Pirates,C,22,2021
+29,Jose Maldonado,Pirates,RHP,19,2021
+30,Grant Koch,Pirates,C,21,2021
+1,Eloy Jimenez,White Sox,OF,22,2019
+2,Michael Kopech,White Sox,RHP,22,2020
+3,Luis Robert,White Sox,OF,21,2020
+4,Nick Madrigal,White Sox,2B,21,2020
+5,Dylan Cease,White Sox,RHP,21,2020
+6,Micker Adolfo,White Sox,OF,22,2021
+7,Luis Alexander Basabe,White Sox,OF,22,2020
+8,Dane Dunning,White Sox,RHP,24,2019
+9,Blake Rutherford,White Sox,OF,21,2021
+10,Luis Gonzalez,White Sox,OF,23,2020
+11,Alec Hansen,White Sox,RHP,24,2020
+12,Zack Collins,White Sox,C/1B,23,2019
+13,Zack Burdi,White Sox,RHP,23,2019
+14,Jake Burger,White Sox,3B,22,2021
+15,Steele Walker,White Sox,OF,22,2021
+16,Konnor Pilkington,White Sox,LHP,21,2022
+17,Seby Zvala,White Sox,C/1B,25,2019
+18,Ryan Cordell,White Sox,OF,25,2019
+19,Gavin Sheets,White Sox,1B,22,2020
+20,Kodi Medeiros,White Sox,RHP,22,2021
+21,Ti'quan Forbes,White Sox,3B,22,2020
+22,Tyler Johnson,White Sox,RHP,23,2020
+23,Jameson Fisher,White Sox,OF,25,2020
+24,Danny Mendick,White Sox,2B/SS,25,2020
+25,A.J. Puckett,White Sox,RHP,23,2020
+26,Jordan Stephens,White Sox,RHP,26,2019
+27,Jimmy Lambert,White Sox,RHP,24,2020
+28,Bernardo Flores,White Sox,LHP,23,2020
+29,Charlie Tilson,White Sox,OF,26,2019
+30,Luis Curbelo,White Sox,2B/3B,21,2022
+1,Cole Winn,Rangers,RHP,19,2022
+2,Hans Crouse,Rangers,OF,20,2021
+3,Bubba Thompson,Rangers,OF,20,2022
+4,Julio Pablo Martinez,Rangers,OF,23,2021
+5,Leody Taveras,Rangers,OF,20,2020
+6,Taylor Hearn,Rangers,LHP,24,2019
+7,Sherten Apostel,Rangers,3B,20,2022
+8,Cole Ragans,Rangers,LHP,21,2021
+9,Brock Burke,Rangers,LHP,22,2020
+10,Jonathan Hernandez,Rangers,RHP,22,2020
+11,Owen White,Rangers,RHP,19,2022
+12,A.J. Alexy,Rangers,RHP,21,2020
+13,Jonathan Ornelas,Rangers,SS,19,2022
+14,Anderson Tejada,Rangers,SS,20,2021
+15,Chris Siese,Rangers,SS,20,2022
+16,Alex Speas,Rangers,RHP,21,2022
+17,Tyler Phillips,Rangers,RHP,21,2020
+18,Joe Palumbo,Rangers,LHP,24,2019
+19,Eli White,Rangers,SS/3B,24,2019
+20,Jayce Easley,Rangers,SS,19,2023
+21,Pedro Gonzalez,Rangers,OF,21,2022
+22,Mason Englert,Rangers,RHP,19,2022
+23,Reid Anderson,Rangers,RHP,23,2020
+24,C.D. Pelham,Rangers,LHP,24,2019
+25,Ronny Henriquez,Rangers,RHP,18,2023
+26,Kyle Cody,Rangers,RHP,24,2020
+27,Jason Bahr,Rangers,RHP,24,2020
+28,Brendon Davis,Rangers,INF,21,2021
+29,Yerry Rodriguez,Rangers,RHP,21,2022
+30,Osleivis Basabe,Rangers,SS,18,2023
+1,Yusei Kikuchi,Mariners,LHP,27,2019
+2,Jarred Kelenic,Mariners,OF,19,2022
+3,Justin Dunn,Mariners,RHP,23,2020
+4,Justus Sheffield,Mariners,LHP,22,2019
+5,Julio Rodriguez,Mariners,OF,18,2023
+6,Logan Gilbert,Mariners,RHP,21,2021
+7,Shed Long,Mariners,2B,23,2020
+8,Evan White,Mariners,1B,22,2020
+9,Kyle Lewis,Mariners,OF,23,2020
+10,Noelvis Marte,Mariners,SS,17,2023
+11,Jake Fraley,Mariners,OF,23,2021
+12,Erik Swanson,Mariners,RHP,25,2019
+13,Braden Bishop,Mariners,OF,25,2019
+14,Cal Raleigh,Mariners,C,22,2021
+15,Sam Carlson,Mariners,RHP,20,2022
+16,Matt Festa,Mariners,RHP,26,2019
+17,Dom Thompson-Williams,Mariners,OF,23,2021
+18,Joey Gerber,Mariners,RHP,21,2020
+19,Ricardo Sanchez,Mariners,LHP,21,2020
+20,Dan Vogelbach,Mariners,1B/DH,26,2019
+21,Gerson Bautista,Mariners,RHP,23,2019
+22,Nabil Crismatt,Mariners,RHP,24,2019
+23,Wyatt Mills,Mariners,RHP,24,2019
+24,Keegan McGovern,Mariners,OF,23,2021
+25,Dylan Moore,Mariners,2B/3B,26,2019
+26,Ian Miller,Mariners,OF,27,2019
+27,Juan Querecuto,Mariners,SS,18,2023
+28,Joey Curletta,Mariners,1B,25,2019
+29,Max Povse,Mariners,RHP,25,2019
+30,Jorge Benitez,Mariners,LHP,19,2022

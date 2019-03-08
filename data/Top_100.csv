@@ -1,0 +1,147 @@
+Rank,Player,Team,Position,Grade,Risk,Age,ETA,High,Low,Ralph,Lance,Eddy,Jason,Matt,JP
+1,Vladimir Guerrero Jr.,Blue Jays,3B,80,Moderate,20,2019,1,1,1,1,1,1,1,1
+2,Eloy Jimenez,White Sox,OF,70,Low,22,2019,2,4,3,2,2,4,3,2
+3,Fernando Tatis Jr.,Padres,SS,70,Moderate,20,2020,2,5,2,3,4,2,2,5
+4,Victor Robles,Nationals,OF,70,Low,22,2019,3,6,6,5,3,3,6,3
+5,Forrest Whitley,Astros,RHP,70,Moderate,21,2019,4,7,4,4,7,6,4,4
+6,Wander Franco,Rays,SS,70,High,18,2021,5,10,5,6,5,8,5,10
+7,Royce Lewis,Twins,SS,65,Moderate,20,2020,6,12,7,8,6,12,8,6
+8,Jo Adell,Angels,OF,65,Moderate,20,2020,7,12,12,10,9,7,7,7
+9,Nick Senzel,Reds,3B,60,Moderate,24,2019,7,11,8,7,10,11,9,8
+10,Alex Kirilloff,Twins,OF,60,Low,21,2020,5,14,10,9,13,5,10,14
+11,Kyle Tucker,Astros,OF,60,Moderate,22,2019,8,15,9,15,8,13,13,9
+12,Keston Hiura,Brewers,2B,60,Low,22,2019,9,19,15,19,11,9,14,11
+13,Bo Bichette,Blue Jays,SS,60,High,21,2020,10,22,13,12,12,10,12,22
+14,Carter Kieboom,Nationals,SS,60,Low,21,2020,12,22,22,16,15,18,17,12
+15,Jesus Luzardo,A's,LHP,60,Moderate,21,2019,11,24,11,24,18,14,15,19
+16,Alex Reyes,Cardinals,RHP,70,Extreme,24,2019,11,25,14,14,25,24,11,18
+17,MacKenzie Gore,Padres,LHP,60,Moderate,20,2021,13,35,19,13,35,21,18,16
+18,Jonathan India,Reds,3B,60,Moderate,22,2020,15,26,26,23,20,19,20,15
+19,Taylor Trammell,Reds,OF,60,Moderate,21,2020,17,29,27,18,17,20,29,17
+20,Cristian Pache,Braves,OF,70,Extreme,20,2020,13,41,16,27,41,16,16,13
+21,Luis Urias,Padres,2B,55,Moderate,22,2019,14,27,23,25,14,27,25,23
+22,Brent Honeywell,Rays,RHP,60,High,24,2019,17,31,24,17,19,30,31,21
+23,Michael Kopech,White Sox,RHP,60,Extreme,23,2020,11,56,17,11,21,56,22,27
+24,Andres Gimenez,Mets,SS,60,High,20,2020,19,37,25,37,27,29,19,31
+25,Brendan Rodgers,Rockies,SS,55,Moderate,22,2020,24,34,29,32,34,25,28,24
+26,Danny Jansen,Blue Jays,C,55,Low,24,2019,23,43,40,43,32,23,26,25
+27,Ke'Bryan Hayes,Pirates,3B,50,Moderate,22,2020,17,62,21,26,45,17,21,62
+28,Mike Soroka,Braves,RHP,55,Low,21,2019,22,42,30,38,22,22,41,42
+29,Touki Toussaint,Braves,RHP,55,Moderate,23,2019,15,51,33,51,36,15,33,32
+30,A.J. Puk,A's,LHP,55,High,24,2019,16,60,18,40,16,47,23,60
+31,Austin Riley,Braves,3B,55,Moderate,22,2020,26,46,31,28,26,34,46,46
+32,Nate Pearson,Blue Jays,RHP,60,High,22,2020,20,59,59,52,30,26,27,20
+33,Vidal Brujan,Rays,2B,55,Moderate,21,2021,23,43,39,42,23,43,36,39
+34,Peter Alonso,Mets,1B,60,Moderate,24,2019,24,63,32,63,24,36,38,33
+35,Chris Paddack,Padres,RHP,55,Moderate,23,2020,21,51,28,21,40,45,42,51
+36,Casey Mize,Tigers,RHP,55,Moderate,22,2020,24,52,34,30,48,42,24,52
+37,Yordan Alvarez,Astros,OF,55,Moderate,22,2020,29,71,49,71,31,33,32,29
+38,Jazz Chisholm,Diamondbacks,SS,60,High,21,2021,30,53,43,53,47,46,48,30
+39,Luis Robert,White Sox,OF,55,High,21,2021,20,65,55,20,65,41,51,41
+40,Alex Verdugo,Dodgers,OF,55,Low,23,2019,34,61,51,54,43,61,35,34
+41,Jesus Sanchez,Rays,OF,50,Low,21,2021,35,70,44,41,42,35,70,55
+42,Ian Anderson,Braves,RHP,50,Moderate,21,2020,28,66,56,48,44,28,45,66
+43,Nolan Gorman,Cardinals,3B,55,Moderate,19,2021,36,76,36,46,57,76,47,37
+44,Yusei Kikuchi,Mariners,LHP,55,Low,28,2019,33,63,63,33,39,52,62,61
+45,Trevor Larnach,Twins,OF,55,Moderate,22,2020,29,71,42,61,29,71,58,50
+46,Yusniel Diaz,Orioles,OF,55,Moderate,22,2019,37,76,52,76,38,66,37,44
+47,Joey Bart,Giants,C,55,Moderate,22,2020,26,92,57,56,92,50,39,26
+48,Luis Garcia (WAS),Nationals,SS,50,Moderate,19,2021,44,71,45,70,52,49,44,71
+49,Nick Madrigal,White Sox,SS,50,Low,22,2020,35,87,87,35,54,48,64,54
+50,Jarred Kelenic,Mariners,OF,55,Low,19,2022,45,83,61,83,51,51,57,45
+51,Mitch Keller,Pirates,RHP,55,Low,23,2019,31,,148,36,50,31,50,43
+52,Bryse Wilson,Braves,RHP,55,Moderate,21,2019,38,78,58,78,63,38,76,48
+53,Sixto Sanchez,Phillies,RHP,60,High,20,2021,20,,20,22,67,75,30,148
+54,Luis Patino,Padres,RHP,50,Moderate,19,2021,31,94,54,31,56,54,74,94
+55,Nico Hoerner,Cubs,SS,55,Low,21,2020,28,79,76,79,46,67,71,28
+56,Dylan Cease,White Sox,RHP,50,High,23,2020,37,84,48,82,37,59,65,84
+57,Kyle Wright,Braves,RHP,50,Low,23,2019,35,90,35,55,74,65,60,90
+58,Gavin Lux,Dodgers,SS,50,Moderate,21,2021,28,148,38,148,28,44,55,68
+59,Matt Manning,Tigers,RHP,50,Moderate,21,2020,37,83,37,64,70,60,67,83
+60,Kristian Robinson,Diamondbacks,OF,60,Extreme,18,2022,50,94,50,57,66,94,54,64
+61,Brendan McKay,Rays,LHP/1B,55,Moderate,23,2020,29,148,71,29,77,32,34,148
+62,MJ Melendez,Royals,C,55,Low,20,2021,36,100,64,100,97,55,56,36
+63,Francisco Mejia,Padres,C,55,Low,23,2019,35,148,78,39,148,37,73,35
+64,Nolan Jones,Indians,3B,50,Moderate,21,2021,46,95,46,95,61,93,59,57
+65,Drew Waters,Braves,OF,55,Moderate,20,2021,47,148,47,72,53,64,53,148
+66,Garrett Hampson,Rockies,2B,55,Low,24,2019,33,148,84,148,33,84,61,38
+67,Hunter Greene,Reds,RHP,55,High,19,2022,34,148,79,34,148,96,40,63
+68,Keibert Ruiz,Dodgers,C,50,Low,20,2020,40,148,68,59,62,40,84,148
+69,Adonis Medina,Phillies,RHP,50,Moderate,22,2021,49,99,86,49,73,80,79,99
+70,Josh James,Astros,RHP,55,Low,26,2019,40,148,83,148,64,74,72,40
+71,Jon Duplantier,Diamondbacks,RHP,50,Moderate,24,2019,56,148,148,62,99,57,66,56
+72,Triston McKenzie,Indians,RHP,55,Moderate,21,2020,39,148,88,148,59,39,85,73
+73,Deivi Garcia,Yankees,RHP,50,High,20,2020,63,148,77,148,75,70,63,70
+74,Brusdar Graterol,Twins,RHP,55,Moderate,20,2021,41,148,41,94,81,148,52,89
+75,Nate Lowe,Rays,1B,50,Moderate,23,2019,49,148,73,148,49,85,78,72
+76,Matthew Liberatore,Rays,LHP,50,Moderate,19,2020,70,99,70,97,82,99,82,79
+77,Sean Murphy,A's,C,50,Low,24,2020,47,148,72,47,148,148,49,59
+78,Estevan Florial,Yankees,OF,50,High,21,2020,58,148,89,77,58,69,83,148
+79,Cole Winn,Rangers,RHP,50,Moderate,19,2022,63,148,65,98,148,63,89,67
+80,Bubba Thompson,Rangers,OF,50,Moderate,21,2022,66,148,66,148,68,95,91,75
+81,Justus Sheffield,Mariners,LHP,50,Low,23,2019,67,148,67,69,148,86,81,92
+82,Victor Victor Mesa,Marlins,OF,50,High,22,2020,43,148,60,75,89,148,43,148
+83,William Contreras,Braves,C,50,Moderate,21,2021,53,148,53,148,148,62,68,85
+84,Adrian Morejon,Padres,LHP,50,High,20,2020,45,148,92,45,100,92,94,148
+85,Alec Bohm,Phillies,3B,50,Moderate,22,2020,58,148,148,65,72,148,87,58
+86,Isaac Paredes,Tigers,SS,50,High,20,2019,53,148,75,92,148,53,75,148
+87,George Valera,Indians,OF,60,Extreme,18,2022,69,148,69,148,86,87,77,148
+88,Jordyn Adams,Angels,OF,60,Extreme,19,2023,60,148,98,148,60,148,93,77
+89,Ronny Mauricio,Mets,SS,60,Extreme,18,2022,68,148,100,68,69,97,148,148
+90,Brandon Lowe,Rays,2B,50,Low,24,2019,80,148,148,80,93,83,148,81
+91,Travis Swaggerty,Pirates,OF,55,Moderate,21,2021,47,148,148,85,148,77,148,47
+92,Hans Crouse,Rangers,RHP,50,High,20,2021,74,148,90,148,148,100,98,74
+93,Cole Tucker,Pirates,SS,55,Moderate,22,2019,67,148,148,67,95,148,69,148
+94,Ryan McKenna,Orioles,OF,55,Low,22,2020,49,148,148,148,96,91,148,49
+95,Mark Vientos,Mets,SS,50,High,19,2022,78,148,81,148,78,82,148,148
+96,Luiz Gohara,Braves,LHP,50,Moderate,22,2019,73,148,148,91,85,73,148,148
+97,D.L. Hall,Orioles,LHP,50,High,20,2021,74,148,74,148,148,148,90,88
+98,Griffin Canning,Angels,RHP,50,High,23,2019,62,148,62,99,148,148,99,148
+99,Luis Garcia (PHI),Phillies,SS,50,High,18,2022,72,148,94,148,148,72,95,148
+100,Tyler Nevin,Rockies,1B,50,Low,22,2020,76,148,91,148,94,148,148,76
+,Michel Baez,Padres,RHP,50,High,22,2020,44,148,148,44,148,89,148,148
+,Hudson Potts,Padres,3B,50,Moderate,20,2020,91,148,95,148,91,148,148,96
+,Eric Pardinho,Blue Jays,RHP,50,Extreme,18,2022,92,148,99,148,98,148,92,148
+,Seuly Matias,Royals,OF,50,High,22,2022,50,148,148,50,148,148,148,91
+,Jahmai Jones,Angels,2B,50,Moderate,21,2020,53,148,148,90,148,148,148,53
+,Oneil Cruz,Pirates,SS,50,High,20,2021,66,148,148,66,148,78,148,148
+,Brady Singer,Royals,RHP,50,Moderate,22,2020,68,148,148,148,148,68,80,148
+,Heliot Ramos,Giants,OF,50,High,19,2022,65,148,85,148,148,148,148,65
+,Daulton Varsho,Diamondbacks,C,50,Moderate,22,2021,71,148,80,148,71,148,148,148
+,Monte Harrison,Marlins,OF,50,High,23,2020,74,148,148,74,148,148,148,78
+,Julio Pablo Martinez,Rangers,OF,50,Moderate,23,2021,81,148,148,148,148,81,148,82
+,Ronaldo Hernandez,Rays,C,50,High,21,2021,79,148,148,148,79,148,86,148
+,Andrew Knizner,Cardinals,C,50,Low,23,2019,80,148,148,87,148,148,148,80
+,Dustin May,Dodgers,RHP,50,Moderate,20,2020,80,148,148,148,80,148,88,148
+,Jonathan Loaisiga,Yankees,RHP,50,Low,24,2019,82,148,82,148,87,148,148,148
+,Jordan Groshans,Blue Jays,3B,50,High,19,2022,84,148,148,148,84,148,96,148
+,Yu Chang,Indians,SS,50,Low,23,2019,81,148,148,81,148,148,148,100
+,Marco Luciano,Giants,3B,60,Extreme,17,2023,88,148,148,148,88,148,148,95
+,Xavier Edwards,Padres,SS,50,High,19,2021,97,148,97,148,148,148,148,97
+,Khalil Lee,Royals,OF,50,High,20,2022,55,148,148,148,55,148,148,148
+,Anderson Espinoza,Padres,RHP,50,High,20,2021,58,148,148,58,148,148,148,148
+,Justin Dunn,Mariners,RHP,50,Moderate,23,2020,58,148,148,148,148,58,148,148
+,Will Smith,Dodgers,C,50,Moderate,23,2019,60,148,148,60,148,148,148,148
+,Nicky Lopez,Royals,SS,50,Low,24,2019,69,148,148,148,148,148,148,69
+,Brandon Marsh,Angels,OF,50,High,21,2020,73,148,148,73,148,148,148,148
+,Kevin Smith,Blue Jays,SS,50,Moderate,22,2020,76,148,148,148,76,148,148,148
+,Michael King,Yankees,RHP,50,Moderate,23,2019,79,148,148,148,148,79,148,148
+,Elehuris Montero,Cardinals,3B,50,Moderate,20,2020,83,148,148,148,83,148,148,148
+,Shed Long,Mariners,2B,50,Moderate,23,2020,84,148,148,84,148,148,148,148
+,Josh Naylor,Padres,1B/OF,50,Moderate,21,2020,86,148,148,148,148,148,148,86
+,Braxton Garrett,Marlins,LHP,50,High,21,2022,86,148,148,86,148,148,148,148
+,Lucius Fox,Rays,SS,50,High,21,2020,87,148,148,148,148,148,148,87
+,Brock Burke,Rangers,LHP,50,Moderate,22,2020,88,148,148,148,148,88,148,148
+,Micker Adolfo,White Sox,OF,50,Moderate,22,2021,88,148,148,88,148,148,148,148
+,Isan Diaz,Marlins,2B,50,High,22,2019,89,148,148,89,148,148,148,148
+,Brayan Rocchio,Indians,SS,50,Extreme,18,2022,90,148,148,148,90,148,148,148
+,Esteury Ruiz,Padres,2B,50,High,19,2021,90,148,148,148,148,90,148,148
+,Miguel Amaya,Cubs,C,50,Low,20,2022,93,148,148,148,148,148,148,93
+,Colton Welker,Rockies,3B,50,Moderate,21,2021,93,148,93,148,148,148,148,148
+,Luis Alexander Basabe,White Sox,OF,50,Low,22,2020,93,148,148,93,148,148,148,148
+,Corbin Martin,Astros,RHP,50,Low,22,2020,96,148,96,148,148,148,148,148
+,Dane Dunning,White Sox,RHP,50,Low,24,2019,96,148,148,96,148,148,148,148
+,Daniel Lynch,Royals,LHP,50,High,22,2020,97,148,148,148,148,148,97,148
+,Dakota Hudson,Cardinals,RHP,50,Low,24,2019,98,148,148,148,148,148,148,98
+,Jake Rogers,Tigers,C,50,Low,23,2019,98,148,148,148,148,98,148,148
+,Julio Rodriguez,Mariners,OF,50,High,18,2023,100,148,148,148,148,148,100,148

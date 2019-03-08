@@ -1,0 +1,125 @@
+Rank,Player,Team,Position,Age,ETA,High,Low,Ralph,Matt,Eddy,Risk,AVG,OBP,SLG,HR,SB,ERA,WHIP,IP,K
+1,Vladimir Guerrero Jr.,Blue Jays,3B,20,2019,1,1,1,1,1,Low,0.32,0.4,0.55,35,1,,,,
+2,Eloy Jimenez,White Sox,OF,22,2019,2,3,3,2,2,Low,0.31,0.36,0.58,40,1,,,,
+3,Fernando Tatis Jr.,Padres,SS,20,2020,2,4,2,3,4,Moderate,0.28,0.39,0.55,35,15,,,,
+4,Victor Robles,Nationals,OF,22,2019,3,4,4,4,3,Low,0.29,0.35,0.475,20,30,,,,
+5,Wander Franco,Rays,SS,18,2021,5,6,6,5,6,High,0.3,0.375,0.54,30,10,,,,
+6,Jo Adell,Angels,OF,20,2020,6,7,7,6,7,Moderate,0.28,0.34,0.52,30,20,,,,
+7,Nick Senzel,Reds,3B,24,2019,5,11,5,11,5,Low,0.3,0.39,0.515,30,10,,,,
+8,Royce Lewis,Twins,SS,20,2020,8,9,8,9,8,Low,0.315,0.365,0.47,20,30,,,,
+9,Keston Hiura,Brewers,2B,22,2019,8,10,10,8,10,Low,0.32,0.365,0.51,25,10,,,,
+10,Forrest Whitley,Astros,RHP,21,2019,7,12,11,7,12,Moderate,,,,,,2.5,1,220,260
+11,Kyle Tucker,Astros,OF,22,2019,9,12,9,12,9,Moderate,0.29,0.37,0.53,25,20,,,,
+12,Alex Kirilloff,Twins,OF,21,2020,10,13,12,10,13,Moderate,0.31,0.375,0.54,30,5,,,,
+13,Bo Bichette,Blue Jays,SS,21,2020,11,13,13,13,11,Moderate,0.29,0.35,0.48,20,25,,,,
+14,Taylor Trammell,Reds,OF,21,2020,15,16,16,15,16,High,0.28,0.38,0.475,25,30,,,,
+15,Carter Kieboom,Nationals,SS,21,2020,14,20,14,17,20,Moderate,0.285,0.37,0.48,25,5,,,,
+16,Jesus Luzardo,A's,LHP,21,2019,16,20,20,16,17,Moderate,,,,,,2.9,1.1,200,210
+17,Peter Alonso,Mets,1B,24,2019,14,22,19,22,14,High,0.27,0.37,0.57,40,1,,,,
+18,Luis Urias,Padres,2B,22,2019,17,21,17,21,19,Low,0.32,0.36,0.45,15,10,,,,
+19,Alex Reyes,Cardinals,RHP,24,2019,14,32,18,14,32,Extreme,,,,,,2.5,1.15,180,220
+20,Vidal Brujan,Rays,2B,21,2021,22,24,24,24,22,Moderate,0.31,0.39,0.45,15,30,,,,
+21,Yordan Alvarez,Astros,OF,22,2020,23,25,23,25,24,Moderate,0.27,0.35,0.53,30,1,,,,
+22,A.J. Puk,A's,LHP,24,2019,15,33,25,33,15,High,,,,,,2.75,1.15,180,230
+23,Trevor Larnach,Twins,OF,22,2020,21,29,28,29,21,Moderate,0.28,0.39,0.52,30,5,,,,
+24,Jonathan India,Reds,3B,22,2020,21,31,21,31,27,Moderate,0.285,0.37,0.51,25,5,,,,
+25,Brendan Rodgers,Rockies,SS,22,2020,23,31,26,23,31,Moderate,0.28,0.34,0.49,25,5,,,,
+26,Garrett Hampson,Rockies,2B,24,2019,18,51,51,18,18,Moderate,0.285,0.36,0.44,10,30,,,,
+27,Austin Riley,Braves,3B,22,2020,15,43,15,43,29,Moderate,0.265,0.345,0.525,30,1,,,,
+28,Kristian Robinson,Diamondbacks,OF,18,2022,20,43,43,20,28,Extreme,0.275,0.34,0.53,25,15,,,,
+29,Andres Gimenez,Mets,SS,20,2020,19,40,40,19,37,Moderate,0.29,0.34,0.44,15,25,,,,
+30,Jazz Chisholm,Diamondbacks,SS,21,2021,26,41,30,26,41,High,0.27,0.335,0.47,20,20,,,,
+31,Yusei Kikuchi,Mariners,LHP,27,2019,27,39,34,27,39,Low,,,,,,3.2,1.05,175,175
+32,Gavin Lux,Dodgers,SS,21,2021,26,51,27,51,26,Moderate,0.285,0.37,0.485,20,15,,,,
+33,Nate Lowe,Rays,1B,23,2019,32,38,32,38,36,Moderate,0.285,0.38,0.52,25,1,,,,
+34,Nolan Jones,Indians,3B,21,2021,32,42,33,32,42,Moderate,0.27,0.375,0.515,25,1,,,,
+35,Jesus Sanchez,Rays,OF,21,2021,28,45,36,28,45,High,0.28,0.33,0.51,25,5,,,,
+36,Nolan Gorman,Cardinals,3B,19,2021,22,59,22,30,59,Extreme,0.27,0.35,0.54,30,1,,,,
+37,MacKenzie Gore,Padres,LHP,20,2021,25,50,50,36,25,Extreme,,,,,,2.8,1.05,200,220
+38,Michael Kopech,White Sox,RHP,23,2020,30,44,42,44,30,Extreme,,,,,,2.9,1.15,180,230
+39,Mike Soroka,Braves,RHP,21,2019,33,45,45,41,33,Moderate,,,,,,2.7,1,190,185
+40,Brent Honeywell,Rays,RHP,24,2019,23,49,48,49,23,High,,,,,,2.95,1.1,180,185
+41,Nico Hoerner,Cubs,SS,21,2020,38,45,38,45,38,Moderate,0.285,0.365,0.485,20,10,,,,
+42,Touki Toussaint,Braves,RHP,23,2019,35,44,44,35,43,High,,,,,,3.15,1.15,200,215
+43,Chris Paddack,Padres,RHP,23,2020,39,46,39,40,46,Moderate,,,,,,2.8,1,180,175
+44,Yusniel Diaz,Orioles,OF,22,2019,35,55,35,39,55,Moderate,0.29,0.36,0.47,20,10,,,,
+45,Jarred Kelenic,Mariners,OF,19,2022,37,52,41,37,52,High,0.29,0.36,0.48,20,15,,,,
+46,Xavier Edwards,Padres,SS,19,2021,34,49,49,47,34,High,0.3,0.38,0.425,10,40,,,,
+47,Luis Garcia (WAS),Nationals,SS,19,2021,31,55,31,55,44,High,0.29,0.34,0.46,20,15,,,,
+48,Ke'Bryan Hayes,Pirates,3B,22,2020,29,60,29,48,60,Moderate,0.285,0.35,0.455,20,15,,,,
+49,Drew Waters,Braves,OF,20,2021,37,61,37,46,61,High,0.275,0.34,0.47,20,15,,,,
+50,Nate Pearson,Blue Jays,RHP,22,2020,35,69,69,42,35,High,,,,,,3.15,1.15,200,220
+51,Luis Robert,White Sox,OF,21,2021,47,54,47,54,53,High,0.27,0.35,0.48,20,20,,,,
+52,Casey Mize,Tigers,RHP,22,2020,47,55,55,53,47,High,,,,,,3,1.1,200,200
+53,George Valera,Indians,OF,18,2022,49,63,63,52,49,Extreme,0.285,0.37,0.51,25,5,,,,
+54,Ian Anderson,Braves,RHP,21,2020,48,66,66,50,48,Moderate,,,,,,2.9,1.15,190,210
+55,Sixto Sanchez,Phillies,RHP,20,2021,57,63,57,57,63,Extreme,,,,,,2.75,1.05,175,190
+56,Jordyn Adams,Angels,OF,19,2023,51,75,75,58,51,Extreme,0.27,0.35,0.47,20,20,,,,
+57,Dylan Cease,White Sox,RHP,23,2020,40,74,74,70,40,High,,,,,,3.1,1.15,180,215
+58,Bubba Thompson,Rangers,OF,21,2022,52,69,52,69,68,High,0.27,0.345,0.47,15,25,,,,
+59,Estevan Florial,Yankees,OF,21,2020,57,72,60,72,57,Extreme,0.26,0.35,0.485,25,15,,,,
+60,Marco Luciano,Giants,3B,17,2023,59,67,65,59,67,Extreme,0.275,0.35,0.48,25,5,,,,
+61,Danny Jansen,Blue Jays,C,24,2019,53,84,53,56,84,Low,0.28,0.36,0.44,15,1,,,,
+62,Josh James,Astros,RHP,26,2019,56,82,82,63,56,High,,,,,,3.2,1.2,175,200
+63,Matt Manning,Tigers,RHP,21,2020,62,76,64,76,62,High,,,,,,3,1.15,180,200
+64,Oneil Cruz,Pirates,SS,20,2021,56,87,56,60,87,High,0.265,0.34,0.5,25,10,,,,
+65,Victor Victor Mesa,Marlins,OF,22,2020,61,76,61,66,76,Moderate,0.28,0.34,0.44,15,25,,,,
+66,Cristian Pache,Braves,OF,20,2020,34,124,54,34,124,High,0.28,0.33,0.46,15,20,,,,
+67,Ronny Mauricio,Mets,SS,17,2022,62,85,62,85,65,Extreme,0.27,0.33,0.485,25,5,,,,
+68,Mark Vientos,Mets,3B,19,2022,46,86,46,82,86,Extreme,0.285,0.37,0.47,20,1,,,,
+69,Alex Verdugo,Dodgers,OF,23,2019,71,78,72,78,71,Low,0.3,0.38,0.44,15,5,,,,
+70,Tyler Freeman,Indians,SS/2B,19,2021,59,87,59,87,82,Moderate,0.3,0.34,0.455,15,5,,,,
+71,Luis Patino,Padres,RHP,19,2021,66,90,90,73,66,High,,,,,,3,1.1,175,190
+72,Brusdar Graterol,Twins,RHP,20,2021,64,87,87,64,79,Extreme,,,,,,3.2,1.1,170,190
+73,Alec Bohm,Phillies,3B,22,2020,68,89,68,89,78,High,0.26,0.33,0.52,30,1,,,,
+74,Jordan Groshans,Blue Jays,3B,19,2022,69,86,86,81,69,Extreme,0.275,0.345,0.5,25,1,,,,
+75,Bryse Wilson,Braves,RHP,21,2019,54,100,85,100,54,High,,,,,,3.3,1.15,175,190
+76,Nick Madrigal,White Sox,SS,22,2020,72,93,93,80,72,Low,0.32,0.35,0.425,10,20,,,,
+77,Brayan Rocchio,Indians,SS,18,2022,74,88,88,74,83,High,0.29,0.34,0.44,15,15,,,,
+78,Francisco Mejia,Padres,C,23,2019,62,124,67,62,124,Moderate,0.29,0.34,0.45,15,1,,,,
+79,Khalil Lee,Royals,OF,20,2022,58,124,73,124,58,High,0.265,0.345,0.43,10,20,,,,
+80,Hudson Potts,Padres,3B,20,2020,58,124,58,124,74,High,0.265,0.34,0.52,25,1,,,,
+81,Isaac Paredes,Tigers,SS,20,2019,61,124,77,61,124,Moderate,0.27,0.355,0.475,20,1,,,,
+82,Julio Rodriguez,Mariners,OF,18,2023,83,96,83,86,96,Extreme,0.275,0.34,0.52,25,5,,,,
+83,Daulton Varsho,Diamondbacks,C,22,2021,71,124,71,71,124,High,0.28,0.345,0.475,20,10,,,,
+84,Kyle Wright,Braves,RHP,23,2019,67,124,124,67,77,Moderate,,,,,,3.2,1.05,190,185
+85,Sherten Apostel,Rangers,3B,20,2022,89,90,89,90,90,Extreme,0.255,0.37,0.53,25,1,,,,
+86,Jhon Torres,Cardinals,OF,18,2022,64,124,124,83,64,Extreme,0.27,0.345,0.5,25,5,,,,
+87,Brandon Marsh,Angels,OF,21,2020,70,124,80,124,70,High,0.26,0.35,0.455,20,10,,,,
+88,Tyler Nevin,Rockies,1B,22,2020,76,124,76,79,124,Moderate,0.29,0.345,0.485,20,1,,,,
+89,Jorge Mateo,A's,SS,23,2019,65,124,124,65,92,Extreme,0.255,0.32,0.41,10,40,,,,
+90,Brendan McKay,Rays,LHP/1B,23,2020,81,124,81,124,88,High,,,,,,3.2,1.1,150,160
+91,Adonis Medina,Phillies,RHP,22,2021,73,124,124,97,73,High,,,,,,3.5,1.2,170,185
+92,Matthew Liberatore,Rays,LHP,19,2020,80,124,124,93,80,Extreme,,,,,,3.15,1.1,180,195
+93,Triston McKenzie,Indians,RHP,21,2020,50,124,124,124,50,Moderate,,,,,,3.45,1.05,175,160
+94,Christin Stewart,Tigers,OF,25,2018,77,124,99,77,124,High,0.25,0.345,0.515,30,1,,,,
+95,Kevin Smith,Blue Jays,SS,22,2020,84,124,124,84,95,High,0.275,0.33,0.45,20,15,,,,
+96,Deivi Garcia,Yankees,RHP,20,2020,85,124,124,96,85,Extreme,,,,,,3.25,1.15,165,180
+97,Jonathan Loaisiga,Yankees,RHP,24,2018,89,124,92,124,89,Extreme,,,,,,3.4,1.2,160,180
+98,Ryan Mountcastle,Orioles,3B,21,2019,92,124,95,92,124,High,0.285,0.33,0.46,20,5,,,,
+99,Mitch Keller,Pirates,RHP,23,2019,94,124,124,98,94,Moderate,,,,,,3.45,1.15,180,165
+100,Esteury Ruiz,Padres,2B,19,2021,68,124,124,68,124,Extreme,0.255,0.33,0.47,15,25,,,,
+101,Jahmai Jones,Angels,2B,21,2020,70,124,70,124,124,,,,,,,,,,
+102,Anderson Espinoza,Padres,RHP,20,2021,75,124,124,75,124,,,,,,,,,,
+102,Dustin May,Dodgers,RHP,20,2020,75,124,124,124,75,,,,,,,,,,
+104,Heliot Ramos,Giants,OF,19,2022,78,124,78,124,124,,,,,,,,,,
+105,Adam Haseley,Phillies,OF,22,2019,79,124,79,124,124,,,,,,,,,,
+106,Jeter Downs,Dodgers,SS,20,2021,81,124,124,124,81,,,,,,,,,,
+107,Luis Garcia (PHI),Phillies,SS,18,2022,84,124,84,124,124,,,,,,,,,,
+108,William Contreras,Braves,C,21,2021,88,124,124,88,124,,,,,,,,,,
+109,Ryan McKenna,Orioles,OF,22,2020,91,124,91,124,124,,,,,,,,,,
+109,Jon Duplantier,Diamondbacks,RHP,24,2019,91,124,124,91,124,,,,,,,,,,
+109,Antonio Cabello,Yankees,OF,18,2023,91,124,124,124,91,,,,,,,,,,
+112,Eric Pardinho,Blue Jays,RHP,18,2022,93,124,124,124,93,,,,,,,,,,
+113,Monte Harrison,Marlins,OF,23,2020,94,124,94,124,124,,,,,,,,,,
+113,Joey Bart,Giants,C,22,2020,94,124,124,94,124,,,,,,,,,,
+115,Justus Sheffield,Mariners,LHP,23,2019,95,124,124,95,124,,,,,,,,,,
+116,Ronaldo Hernandez,Rays,C,21,2021,96,124,96,124,124,,,,,,,,,,
+117,Brandon Lowe,Rays,2B,24,2019,97,124,97,124,124,,,,,,,,,,
+117,Austin Beck,A's,OF,20,2022,97,124,124,124,97,,,,,,,,,,
+119,Colton Welker,Rockies,3B,21,2021,98,124,98,124,124,,,,,,,,,,
+119,Hunter Greene,Reds,RHP,19,2022,98,124,124,124,98,,,,,,,,,,
+121,D'Shawn Knowles,Angels,OF,18,2023,99,124,124,99,124,,,,,,,,,,
+121,Elehuris Montero,Cardinals,3B,20,2020,99,124,124,124,99,,,,,,,,,,
+123,Griffin Canning,Angels,RHP,23,2019,100,124,100,124,124,,,,,,,,,,
+123,Spencer Howard,Phillies,RHP,22,2021,100,124,124,124,100,,,,,,,,,,
