@@ -119,8 +119,6 @@ server <- function(input, output, session) {
       "Read the First Year Player Draft article"
     } else if(input$ListSelect == "Fantasy Top 100 Prospects w/ Projections"){
       "Read the Fantasy Top 100 article"
-    # } else if(input$ListSelect == "Fantasy Top 300 Prospects"){
-    #   "Read the Fantasy Top 300 article"
     } else if(input$ListSelect == "Fantasy OBP Top 100"){
       "Read the Fantasy Top 100 OBP Hitters article by Eddy Almaguer"
     } else if(input$ListSelect == "Top 50 Prospects for Redraft"){
@@ -151,10 +149,6 @@ server <- function(input, output, session) {
       url <- a("HERE", href="https://www.prospectslive.com/lists/2019/1/27/top-100-fantasy-prospects-for-2019", 
                target="_blank")
       tagList("", url)
-    # } else if(input$ListSelect == "Fantasy Top 300 Prospects"){
-    #   url <- a("HERE", href="", 
-    #            target="_blank")
-    #   tagList("", url)
     } else if(input$ListSelect == "Fantasy OBP Top 100"){
       url <- a("HERE", href="https://www.prospectslive.com/lists/2019/2/25/top-100-fantasy-prospects-for-obp", 
                target="_blank")
